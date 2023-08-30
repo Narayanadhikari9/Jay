@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+header {
+    height: 50px;
+    color: white;
+    background-color: gray;
+    text-align: center;
+}
+main {
+    height: calc(100vh - 50px - 50px);
+    background-color: red;
+}
+footer {
+    background-color: gray;
+    height: 50px;
+    text-align: center;
+}
